@@ -15,4 +15,16 @@ h3 {
     
 }
 
- 
+
+ul {
+    display: flex;
+    justify-content: space-between;
+    list-style-type:none;
+    align-items: center;
+    padding: 25px;
+}
+
+a {
+    color: rgb(216, 216, 216);
+    text-decoration: none;
+}
